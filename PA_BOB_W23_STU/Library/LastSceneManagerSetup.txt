@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/BOBsInLove/BOB_in_Love.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
