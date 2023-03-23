@@ -1,2 +1,5 @@
 
 PA_BOB_W23_STU/Library/PackageCache/com.unity.burst@1.8.3/.Runtime/libburst-llvm-14.dylib
+PA_BOB_W23_STU/Library/PackageCache/com.unity.burst@1.8.3/.Runtime/burst-llvm-14.dll
+PA_BOB_W23_STU/Library/PackageCache/com.unity.burst@1.8.3/.Runtime/burst-lld-14-hostmac
+*.dll
