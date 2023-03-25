@@ -61,6 +61,7 @@
     <Compile Include="Assets\AICourse\Steerings\Cohesion.cs" />
     <Compile Include="Assets\AICourse\BTs\PredefinedTasks\Actions\ACTION_Quiet.cs" />
     <Compile Include="Assets\AICourse\Steerings\GroupContext.cs" />
+    <Compile Include="Assets\BOBsInLove\BT_PickFlowers.cs" />
     <Compile Include="Assets\AICourse\Utilities\Foldout\FoldoutAttribute.cs" />
     <Compile Include="Assets\AICourse\BTs\PredefinedTasks\Actions\ACTION_WaitForSeconds.cs" />
     <Compile Include="Assets\AICourse\Steerings\Flocking.cs" />
@@ -73,6 +74,7 @@
     <Compile Include="Assets\AICourse\Utilities\ShowRadii.cs" />
     <Compile Include="Assets\AICourse\Utilities\KBDMove.cs" />
     <Compile Include="Assets\AICourse\BTs\Core\Selector.cs" />
+    <Compile Include="Assets\BOBsInLove\CONDITION_EnoughForBouquet.cs" />
     <Compile Include="Assets\AICourse\BTs\Core\LambdaCondition.cs" />
     <Compile Include="Assets\AICourse\BTs\Core\Parallel.cs" />
     <Compile Include="Assets\AICourse\BTs\PredefinedTasks\Actions\ACTION_Somersault.cs" />
@@ -84,6 +86,7 @@
     <Compile Include="Assets\BOBsInLove\FSM_Work.cs" />
     <Compile Include="Assets\AICourse\BTs\PredefinedTasks\Actions\ACTION_LeaveAtByTag.cs" />
     <Compile Include="Assets\AICourse\BTs\Core\ParallelAnd.cs" />
+    <Compile Include="Assets\BOBsInLove\BT_MakeBouquet.cs" />
     <Compile Include="Assets\AICourse\BTs\PredefinedTasks\Actions\ACTION_PlaySound.cs" />
     <Compile Include="Assets\AICourse\FSMs\FSMExecutor.cs" />
     <Compile Include="Assets\AICourse\Steerings\VelocityMatching.cs" />
@@ -107,6 +110,7 @@
     <Compile Include="Assets\AICourse\BTs\Core\BehaviourTree.cs" />
     <Compile Include="Assets\AICourse\Steerings\PursuePlusOA.cs" />
     <Compile Include="Assets\AICourse\BTs\PredefinedTasks\Actions\ACTION_SetTag.cs" />
+    <Compile Include="Assets\BOBsInLove\BT_PickAndPee.cs" />
     <Compile Include="Assets\AICourse\Steerings\Flee.cs" />
     <Compile Include="Assets\BOBsInLove\RingControl.cs" />
     <Compile Include="Assets\AICourse\Steerings\FlockingAround.cs" />
@@ -136,6 +140,8 @@
     <Compile Include="Assets\BOBsInLove\CONDITION_NeedToPee.cs" />
     <Compile Include="Assets\AICourse\BTs\Core\RandomSequence.cs" />
     <Compile Include="Assets\AICourse\Steerings\ArrivePlusOA.cs" />
+    <Compile Include="Assets\BOBsInLove\BT_Pee.cs" />
+    <Compile Include="Assets\BOBsInLove\CONDITION_NotEnoughForBouquet.cs" />
     <Compile Include="Assets\AICourse\BTs\Core\Decorator.cs" />
     <Compile Include="Assets\AICourse\Steerings\WanderNaive.cs" />
     <Compile Include="Assets\AICourse\BTs\Core\Node.cs" />
@@ -144,6 +150,7 @@
     <Compile Include="Assets\AICourse\Steerings\FlockingAroundPlusAvoidance.cs" />
     <Compile Include="Assets\AICourse\BTs\PredefinedTasks\Actions\ACTION_FindInstanceWithinRadius.cs" />
     <Compile Include="Assets\AICourse\Steerings\SteeringContext.cs" />
+    <Compile Include="Assets\BOBsInLove\ACTION_CountFlowers.cs" />
     <Compile Include="Assets\AICourse\Steerings\Wander.cs" />
     <Compile Include="Assets\AICourse\Steerings\Evade.cs" />
     <Compile Include="Assets\AICourse\BTs\Core\Sequence.cs" />

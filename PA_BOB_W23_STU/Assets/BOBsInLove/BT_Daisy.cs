@@ -4,9 +4,6 @@ using BTs;
 [CreateAssetMenu(fileName = "BT_Daisy", menuName = "Behaviour Trees/BT_Daisy", order = 1)]
 public class BT_Daisy : BehaviourTree
 {
-   
-
-     // construtor
     public BT_Daisy()  { 
         /* Receive BT parameters and set them. Remember all are of type string */
     }
